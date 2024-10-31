@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "timestamp": {
+      "type": "string",
+      "description": "A timestamp describing when the event occurred, in ISO 8601 format",
+      "examples": ["2020-01-01T00:00:00Z"],
+      "format": "timestamp"
+    },
+    "product_sku": {
+      "type": "string",
+      "description": "A unique identifier of the product",
+      "examples": ["SKI123"]
+    },
+    "user_id": {
+      "type": "string",
+      "description": "A unique reference ID for the user",
+      "examples": ["f3df1655-1891-4fee-b0c7-dffdc5ea3891"]
+    }
+  },
+  "required": ["timestamp", "product_sku", "user_id"]
+}

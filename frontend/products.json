@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 122,
+      "title": "iPhone 6",
+      "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+      "category": "smartphones",
+      "price": 299.99,
+      "stock": 99,
+      "tags": ["smartphones", "apple"],
+      "brand": "Apple",
+      "sku": "ZPXH3X9J",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
+    },
+    {
+      "id": 123,
+      "title": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+      "category": "smartphones",
+      "price": 1099.99,
+      "stock": 26,
+      "tags": ["smartphones", "apple"],
+      "brand": "Apple",
+      "sku": "YGQKHPGK",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png"
+    },
+    {
+      "id": 124,
+      "title": "iPhone X",
+      "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+      "category": "smartphones",
+      "price": 899.99,
+      "stock": 99,
+      "tags": ["smartphones", "apple"],
+      "brand": "Apple",
+      "sku": "9QN3UDUD",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+    },
+    {
+      "id": 131,
+      "title": "Samsung Galaxy S7",
+      "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+      "category": "smartphones",
+      "price": 299.99,
+      "stock": 55,
+      "tags": ["smartphones", "samsung galaxy"],
+      "brand": "Samsung",
+      "sku": "VZF4Z58Z",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png"
+    },
+    {
+      "id": 132,
+      "title": "Samsung Galaxy S8",
+      "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+      "category": "smartphones",
+      "price": 499.99,
+      "stock": 75,
+      "tags": ["smartphones", "samsung galaxy"],
+      "brand": "Samsung",
+      "sku": "GLXQQKBF",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
+    },
+    {
+      "id": 133,
+      "title": "Samsung Galaxy S10",
+      "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+      "category": "smartphones",
+      "price": 699.99,
+      "stock": 40,
+      "tags": ["smartphones", "samsung galaxy"],
+      "brand": "Samsung",
+      "sku": "5GJFL98I",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
+    }
+  ],
+  "total": 16,
+  "skip": 0,
+  "limit": 16
+}
