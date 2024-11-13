@@ -21,8 +21,8 @@ You are welcome to install any additional packages from NPM to help you complete
 
 ## Submitting
 
-- Clone this repo into the platform of your choice - you will only have read permissions on this repo.
-- Create a pull request for your changes against the `main` branch
+- Complete the set of tasks below.
+- Create a pull request with your changes against the `main` branch.
 - Inform your point of contact when you have completed the task.
 
 ## Tasks
